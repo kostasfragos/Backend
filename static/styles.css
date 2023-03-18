@@ -1,0 +1,24 @@
+h1 {
+    color: bisque;
+}
+
+.main_form_class {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+}
+
+input {
+    border: 2em;
+    /* border-color: ; */
+    border-radius: 2em;
+}
+
+#submit_button {
+    border: 2em;
+    border-radius: 2em;
+}
+
+table, th, td {
+    border:1px solid black;
+  }
